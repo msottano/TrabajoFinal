@@ -1,0 +1,12 @@
+{
+    "hamburguesa":[ 
+    { 
+    "Pan de queso": "Si",
+    "Veduras": "Ensalada"
+},
+{
+    "hamburguesa": "Pan de Papa",
+    "Vegetales": "No"
+}
+ ]
+ }
